@@ -1,15 +1,14 @@
 h1 {
   color: cadetblue;
+  margin: 40px;
 }
 a {
-  margin: 30px;
+  margin: 50px;
+  font-size: 25px;
+  
 }
 
-a {
-  box-shadow: 2px 3px 4px #000000;
+ol{
   font-size: 25px;
-  margin: 5%;
-  border-radius: 10px 10px 10px;
-  width: 200px;
-  border: 3px solid;
+  margin: 50px;
 }
