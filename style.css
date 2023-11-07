@@ -1,6 +1,7 @@
 h1 {
   color: cadetblue;
   margin: 40px;
+  text-shadow: -1px 2px 3px #000;
 }
 a {
   margin: 50px;
